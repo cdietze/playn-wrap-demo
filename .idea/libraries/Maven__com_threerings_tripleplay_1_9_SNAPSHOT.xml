@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.threerings:tripleplay:1.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/threerings/tripleplay/1.9-SNAPSHOT/tripleplay-1.9-20140610.210747-50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/threerings/tripleplay/1.9-SNAPSHOT/tripleplay-1.9-20140610.210747-50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/threerings/tripleplay/1.9-SNAPSHOT/tripleplay-1.9-20140610.210747-50-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/threerings/tripleplay/1.9-SNAPSHOT/tripleplay-1.9-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
